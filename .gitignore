@@ -1,0 +1,38 @@
+# Ignore useless folders in minecraft/
+
+minecraft/.cache/
+minecraft/.fabric/
+minecraft/.mixin.out
+minecraft/coremods
+minecraft/data
+minecraft/defaultconfigs
+minecraft/downloads
+minecraft/flashback
+minecraft/local
+minecraft/logs
+minecraft/mods
+minecraft/resourcepacks
+minecraft/saves
+minecraft/schematics
+minecraft/screenshots
+minecraft/server-resource-packs
+minecraft/texturepacks
+minecraft/xaero
+
+## Ignore files in minecraft/shaderpacks/ except custom settings [.txt]
+
+minecraft/shaderpacks/complementary-reimagined.pw.toml
+minecraft/shaderpacks/i-like-vanilla.pw.toml
+minecraft/shaderpacks/ComplementaryReimagined_r5.8.1.zip
+minecraft/shaderpacks/I Like Vanilla v1.4.3.zip
+
+# Ignore useless files in minecraft/
+
+minecraft/command_history.txt
+minecraft/icon.png
+minecraft/realms_persistence.json
+minecraft/usercache.json
+
+# Ignore all .jar files
+
+*.jar
