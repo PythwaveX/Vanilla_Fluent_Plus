@@ -11,7 +11,7 @@
 - **Optimization**: the main goal of the modpack is to allow every PC to achieve good performance in every situation, without sacrificing graphic quality, trough mods such as **Sodium**, **Entity Culling**, **FerriteCore**, **Lithium**...
 - **Render Distance**: thanks to the **Voxy** mod you will able to achieve extreme render distance without sacrificing performance. I also suggest you to use the mod **Chunky** to pre-generate the chunks and unlock the full potential of the Voxy mod from the very beginning;
 - **Optifine Features**: the modpack also includes a bunch of mod that replicate the Optifine features such as zoom (**Zoomify**), dynamic light (**LambDynamicLights**), emissive textures (**Continuity**)...
-- **Visual Effect**: the visual effects in Minecraft are AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+- **Visual Effect**: the visual effects in Minecraft are AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - **QoL Features**:
 
 > ### ⚠️ **Multiplayer Alert**
