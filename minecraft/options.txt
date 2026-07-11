@@ -16,13 +16,13 @@ glintStrength:0.75
 preferredGraphicsBackend:"default"
 graphicsPreset:"custom"
 prioritizeChunkUpdates:1
-fullscreen:true
+fullscreen:false
 exclusiveFullscreen:true
 guiScale:0
 maxAnisotropyBit:1
 textureFiltering:0
 maxFps:160
-improvedTransparency:true
+improvedTransparency:false
 inactivityFpsLimit:"afk"
 mipmapLevels:4
 narrator:0
@@ -232,6 +232,10 @@ key_gui.xaero_toggle_tracked_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.v
+key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.shaderPackSelection:key.keyboard.i
+key_iris.keybind.wireframe:key.keyboard.unknown
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 key_key.armorhider.toggle_keybind:key.keyboard.unknown
 key_key.armorhider.open_settings:key.keyboard.unknown

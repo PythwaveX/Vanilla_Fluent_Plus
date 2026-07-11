@@ -37,13 +37,13 @@
     "curseForgeHash": 3083232497,
     "modrinthHash": "a30d087ec6350553308e1a95fe345de259dc0ec5"
   },
-  "bbe-fabric-1.3.6+mc26.2.jar": {
-    "jarName": "bbe-fabric-1.3.6+mc26.2.jar",
+  "bbe-fabric-1.3.7+mc26.2.jar": {
+    "jarName": "bbe-fabric-1.3.7+mc26.2.jar",
     "modId": "betterblockentities",
     "name": "BBE",
-    "version": "1.3.6+mc26.2",
-    "curseForgeHash": 1088767723,
-    "modrinthHash": "df78f239ebbb8ea0e11500e1f37a456c177b1f77"
+    "version": "1.3.7+mc26.2",
+    "curseForgeHash": 1213522245,
+    "modrinthHash": "0cc5f68db3ebb98540be2dbcbd685d3f912e0fc5"
   },
   "better-clouds-1.14.0+26.2-fabric.jar": {
     "jarName": "better-clouds-1.14.0+26.2-fabric.jar",
@@ -205,6 +205,14 @@
     "curseForgeHash": 4227859901,
     "modrinthHash": "ef9347d232ede4c97799fa5dd3a6d2b5be9d7bd8"
   },
+  "iris-fabric-1.11.2+mc26.2.jar": {
+    "jarName": "iris-fabric-1.11.2+mc26.2.jar",
+    "modId": "iris",
+    "name": "Iris",
+    "version": "1.11.2+mc26.2",
+    "curseForgeHash": 835253832,
+    "modrinthHash": "f7d526b1062c4bfe2567113cf933d1de26eddd3f"
+  },
   "Jade-mc26.2-Fabric-26.2.9.jar": {
     "jarName": "Jade-mc26.2-Fabric-26.2.9.jar",
     "modId": "jade",
@@ -229,13 +237,13 @@
     "curseForgeHash": 2964748338,
     "modrinthHash": "52e420cefa4fb0d39e941f83b4cf9158debff9b7"
   },
-  "lithium-fabric-0.25.1+mc26.2.jar": {
-    "jarName": "lithium-fabric-0.25.1+mc26.2.jar",
+  "lithium-fabric-0.25.2+mc26.2.jar": {
+    "jarName": "lithium-fabric-0.25.2+mc26.2.jar",
     "modId": "lithium",
     "name": "Lithium",
-    "version": "0.25.1+mc26.2",
-    "curseForgeHash": 3891592048,
-    "modrinthHash": "7307306a67fcbb8b4bb324387074425e5df753cc"
+    "version": "0.25.2+mc26.2",
+    "curseForgeHash": 1813557899,
+    "modrinthHash": "3bcc94183d7068395de08915fd5fce8d199aaa50"
   },
   "locator-heads-2.4.1.jar": {
     "jarName": "locator-heads-2.4.1.jar",
@@ -253,13 +261,13 @@
     "curseForgeHash": 3034876631,
     "modrinthHash": "c5a86e2c868d8918265361694eebbb73eee6c861"
   },
-  "modmenu-20.0.0.jar": {
-    "jarName": "modmenu-20.0.0.jar",
+  "modmenu-20.0.1.jar": {
+    "jarName": "modmenu-20.0.1.jar",
     "modId": "modmenu",
     "name": "Mod Menu",
-    "version": "20.0.0",
-    "curseForgeHash": 1178569471,
-    "modrinthHash": "023bcb509fb58930aae99ab24493ebbba8b0f45d"
+    "version": "20.0.1",
+    "curseForgeHash": 4202657052,
+    "modrinthHash": "8562dee49eae1a6bdd14b026be1b300aedb5ce0f"
   },
   "moreculling-fabric-26.2-1.8.0.jar": {
     "jarName": "moreculling-fabric-26.2-1.8.0.jar",
@@ -357,13 +365,13 @@
     "curseForgeHash": 2882313942,
     "modrinthHash": "7c8a66d009051bab26f7489e1edef8b3c64f7b0e"
   },
-  "sodium-fabric-0.9.1-beta.3+mc26.2.jar": {
-    "jarName": "sodium-fabric-0.9.1-beta.3+mc26.2.jar",
+  "sodium-fabric-0.9.1+mc26.2.jar": {
+    "jarName": "sodium-fabric-0.9.1+mc26.2.jar",
     "modId": "sodium",
     "name": "Sodium",
-    "version": "0.9.1-beta.3+mc26.2",
-    "curseForgeHash": 202727374,
-    "modrinthHash": "221dcf961af1d834a54819c744c64d48aa3c6610"
+    "version": "0.9.1+mc26.2",
+    "curseForgeHash": 2891693114,
+    "modrinthHash": "14f3388694fa77f870d28262f74562de67eabcbe"
   },
   "status-effect-bars-1.0.12.jar": {
     "jarName": "status-effect-bars-1.0.12.jar",
@@ -381,13 +389,13 @@
     "curseForgeHash": 1945904364,
     "modrinthHash": "b44e4c3a5498bc9917fbad5343c4380dd84bebbc"
   },
-  "voxy-0.2.17-alpha.jar": {
-    "jarName": "voxy-0.2.17-alpha.jar",
+  "voxy-0.2.17-beta.jar": {
+    "jarName": "voxy-0.2.17-beta.jar",
     "modId": "voxy",
     "name": "Voxy",
-    "version": "0.2.17-alpha",
-    "curseForgeHash": 2176225307,
-    "modrinthHash": "503286a81285237ef939d812276b877d00bdd6b4"
+    "version": "0.2.17-beta",
+    "curseForgeHash": 3950118232,
+    "modrinthHash": "f88a4d6d4b3628e9b75d0cf4999a9478c36334a5"
   },
   "worldedit-mod-7.4.4.jar": {
     "jarName": "worldedit-mod-7.4.4.jar",

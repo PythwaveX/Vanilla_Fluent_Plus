@@ -4,6 +4,7 @@ minecraft/.cache/
 minecraft/.fabric/
 minecraft/.mixin.out
 minecraft/coremods
+minecraft/crash-reports
 minecraft/data
 minecraft/defaultconfigs
 minecraft/downloads
