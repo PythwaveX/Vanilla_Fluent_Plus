@@ -61,6 +61,14 @@
     "curseForgeHash": 1908305429,
     "modrinthHash": "4a529510d0690adfa94df8e359fa444e2251a657"
   },
+  "Chunky-Fabric-1.5.3.jar": {
+    "jarName": "Chunky-Fabric-1.5.3.jar",
+    "modId": "chunky",
+    "name": "Chunky",
+    "version": "1.5.3",
+    "curseForgeHash": 110883183,
+    "modrinthHash": "fc1f2f374c5c82117599071ed18b6ef9bba2c7fb"
+  },
   "cloth-config-26.2.155.jar": {
     "jarName": "cloth-config-26.2.155.jar",
     "modId": "cloth-config",
