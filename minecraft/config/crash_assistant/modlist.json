@@ -205,13 +205,13 @@
     "curseForgeHash": 15142309,
     "modrinthHash": "90f596ce535a41020d97840123ac7b1bc6f0668b"
   },
-  "ImmediatelyFast-Fabric-1.16.1+26.2.jar": {
-    "jarName": "ImmediatelyFast-Fabric-1.16.1+26.2.jar",
+  "ImmediatelyFast-Fabric-1.16.2+26.2.jar": {
+    "jarName": "ImmediatelyFast-Fabric-1.16.2+26.2.jar",
     "modId": "immediatelyfast",
     "name": "ImmediatelyFast",
-    "version": "1.16.1+26.2",
-    "curseForgeHash": 4227859901,
-    "modrinthHash": "ef9347d232ede4c97799fa5dd3a6d2b5be9d7bd8"
+    "version": "1.16.2+26.2",
+    "curseForgeHash": 3227018961,
+    "modrinthHash": "2d1cd27b0b570f908b665c02a35b49381b4c5ec1"
   },
   "iris-fabric-1.11.2+mc26.2.jar": {
     "jarName": "iris-fabric-1.11.2+mc26.2.jar",
