@@ -8,21 +8,41 @@
 
 ## 📖 Main Features
 
-- **Optimization**: the main goal of the modpack is to allow every PC to achieve good performance in every situation, without sacrificing graphic quality, all this thanks to mods such as **Sodium**, **Entity Culling**, **More Culling**, **FerriteCore**, **Lithium**, **Dynamic FPS**, **Immediately Fast**, **BadOptimizations**, **Better Block Entities**;
-- **Render Distance**: thanks to the **Voxy** mod you will able to achieve extreme render distance without sacrificing performance. I also suggest you to use the mod **Chunky** to pre-generate the chunks and unlock the full potential of the Voxy mod from the very beginning;
-- **Optifine Features**: the modpack also includes a bunch of mod that replicate the Optifine features such as zoom (**Zoomify**), dynamic light (**LambDynamicLights**), connected textures support (**Continuity**), random and emissive texture support (**ETF**), custom texture support (**EMF**) and custom GUI support (**OptiGUI**);
-- **Visual Effect**: visual effects in Minecraft are often quite flat and simple, for this reason there are some mods that add tiny visual upgrade and new particles, improving visually the game, but maintaining the vanilla-style. Some of these mods are: **Better Clouds**, **Explosive Enhancement**, **Particle Effects**, **Particular**;
-- **QoL Features**: the modpack also includes several Quality of Life features, such as:
+### Optimization
+
+The main goal of the modpack is to allow every PC to achieve good performance in every situation, without sacrificing graphic quality, all this thanks to mods such as **Sodium**, **Entity Culling**, **More Culling**, **FerriteCore**, **Lithium**, **Dynamic FPS**, **Immediately Fast**, **BadOptimizations**, **Better Block Entities**;
+
+### Render Distance
+
+Thanks to the **Voxy** mod you will able to achieve extreme render distance without sacrificing performance. I also suggest you to use the mod **Chunky** to pre-generate the chunks and unlock the full potential of the Voxy mod from the very beginning;
+
+### Optifine Features
+
+The modpack also includes a bunch of mod that replicate the Optifine features such as zoom (**Zoomify**), dynamic light (**LambDynamicLights**), connected textures support (**Continuity**), random and emissive texture support (**ETF**), custom texture support (**EMF**) and custom GUI support (**OptiGUI**);
+
+### Visual Effect
+
+Visual effects in Minecraft are often quite flat and simple, for this reason there are some mods that add tiny visual upgrade and new particles, improving visually the game, but maintaining the vanilla-style. Some of these mods are: **Better Clouds**, **Explosive Enhancement**, **Particle Effects**, **Particular**;
+
+### QoL Features
+
+The modpack also includes several Quality of Life features, such as:
     - **Jade**: shows information about what you are looking at
     - **Xaero's World Map**: adds a full screen world map
     - **Shulker Box Tooltip**: allows to see a preview window of a shulker box contents
     - **Freecam**: a highly customizable freecam mod
     - **Litematica**: a schematic mod with extra features for creative mode work
-- **Resource Packs**: to further improve the aesthetics of the game (but maintaining the vanilla-style), there are also some resource packs; the most important ones are:
+
+### Resource Packs
+
+To further improve the aesthetics of the game (but maintaining the vanilla-style), there are also some resource packs; the most important ones are:
     - **Stay True**: visual remaster of the current default texture-pack
     - **Vanilla Tweaks**: Customizable texture pack with many tiny improvement
     - **Recolourful Containers (Dark)**: Immersive and more colorful GUIs and HUD
-- **Shaders**: if you have a decently good PC or you want to take high quality screenshots of your builds, there are also two shader packs, **Complementary - Reimagined** and **I Like Vanilla**, both compatible with the Voxy mod;
+
+### Shaders
+
+If you have a decently good PC or you want to take high quality screenshots of your builds, there are also two shader packs, **Complementary - Reimagined** and **I Like Vanilla**, both compatible with the Voxy mod;
 
 ### ⚠️ **Multiplayer Alert**
 
