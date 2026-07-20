@@ -5,13 +5,13 @@
     "name": "fabric",
     "version": "fabric-loader-0.19.3.jar"
   },
-  "armor-hider-fabric-0.12.0-pre.7+26.2.jar": {
-    "jarName": "armor-hider-fabric-0.12.0-pre.7+26.2.jar",
+  "armor-hider-fabric-0.12.0-pre.15+26.2.jar": {
+    "jarName": "armor-hider-fabric-0.12.0-pre.15+26.2.jar",
     "modId": "armor-hider",
     "name": "armor-hider",
-    "version": "0.12.0-pre.7+26.2",
-    "curseForgeHash": 604553284,
-    "modrinthHash": "89fc1b09ab7f777933e3021a53209ac01424d3ae"
+    "version": "0.12.0-pre.15+26.2",
+    "curseForgeHash": 1601136371,
+    "modrinthHash": "054e42bb058bae2803d75893422f50e4fd53ba61"
   },
   "Axiom-5.5.0-for-MC26.2.jar": {
     "jarName": "Axiom-5.5.0-for-MC26.2.jar",
@@ -37,21 +37,21 @@
     "curseForgeHash": 3083232497,
     "modrinthHash": "a30d087ec6350553308e1a95fe345de259dc0ec5"
   },
-  "bbe-fabric-1.3.7+mc26.2.jar": {
-    "jarName": "bbe-fabric-1.3.7+mc26.2.jar",
+  "bbe-fabric-1.3.8-beta.1+mc26.2.jar": {
+    "jarName": "bbe-fabric-1.3.8-beta.1+mc26.2.jar",
     "modId": "betterblockentities",
     "name": "BBE",
-    "version": "1.3.7+mc26.2",
-    "curseForgeHash": 1213522245,
-    "modrinthHash": "0cc5f68db3ebb98540be2dbcbd685d3f912e0fc5"
+    "version": "1.3.8-beta.1+mc26.2",
+    "curseForgeHash": 3905681833,
+    "modrinthHash": "ec08648cdda68dc05bf8866289c046ddfefb09a2"
   },
-  "better-clouds-1.14.0+26.2-fabric.jar": {
-    "jarName": "better-clouds-1.14.0+26.2-fabric.jar",
+  "better-clouds-1.14.1+26.2-fabric.jar": {
+    "jarName": "better-clouds-1.14.1+26.2-fabric.jar",
     "modId": "betterclouds",
     "name": "Better Clouds",
-    "version": "1.14.0+26.2-fabric",
-    "curseForgeHash": 1682632358,
-    "modrinthHash": "aa00e2d723e81f9cc30aa7706f1aaaecc4ebaad8"
+    "version": "1.14.1+26.2-fabric",
+    "curseForgeHash": 152763046,
+    "modrinthHash": "eef0e87ee19cc1e240f6a0b2446f1ab0e39eceda"
   },
   "chat_heads-1.2.4-fabric-26.1.jar": {
     "jarName": "chat_heads-1.2.4-fabric-26.1.jar",
@@ -93,13 +93,13 @@
     "curseForgeHash": 2056284312,
     "modrinthHash": "8fa8bc108e84158b0828a4aa59bf906d31676eec"
   },
-  "CrashAssistant-fabric-26.2-1.11.10.jar": {
-    "jarName": "CrashAssistant-fabric-26.2-1.11.10.jar",
+  "CrashAssistant-fabric-26.2-1.11.11.jar": {
+    "jarName": "CrashAssistant-fabric-26.2-1.11.11.jar",
     "modId": "crash_assistant",
     "name": "Crash Assistant",
-    "version": "1.11.10",
-    "curseForgeHash": 2252269775,
-    "modrinthHash": "95dd7850f11140faf7b41864d78e9a4652ab3c87"
+    "version": "1.11.11",
+    "curseForgeHash": 972054437,
+    "modrinthHash": "96e34ffd8f9649ada81f93058b42a331634799db"
   },
   "cwb-4.1.0+26.2.jar": {
     "jarName": "cwb-4.1.0+26.2.jar",
@@ -149,21 +149,21 @@
     "curseForgeHash": 245252793,
     "modrinthHash": "18214af634d37a211c5dd1c2d2136ee9cd2a7df7"
   },
-  "fabric-api-0.154.2+26.2.jar": {
-    "jarName": "fabric-api-0.154.2+26.2.jar",
+  "fabric-api-0.155.2+26.2.jar": {
+    "jarName": "fabric-api-0.155.2+26.2.jar",
     "modId": "fabric-api",
     "name": "Fabric API",
-    "version": "0.154.2+26.2",
-    "curseForgeHash": 3917108139,
-    "modrinthHash": "3b877ba08c963948290098cb4ab718046b011987"
+    "version": "0.155.2+26.2",
+    "curseForgeHash": 1309969804,
+    "modrinthHash": "a2bf116a5beeb27245c1a36985aa05d729f78926"
   },
-  "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar": {
-    "jarName": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+  "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar": {
+    "jarName": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
     "modId": "fabric-language-kotlin",
     "name": "Fabric Language Kotlin",
-    "version": "1.13.12+kotlin.2.4.0",
-    "curseForgeHash": 211845934,
-    "modrinthHash": "2bc17bb4275cc70a12e4ac35d139a71a30845720"
+    "version": "1.13.13+kotlin.2.4.10",
+    "curseForgeHash": 199595575,
+    "modrinthHash": "620cb137a9dc69ce86f3114f19d9eedab16366f5"
   },
   "ferritecore-9.0.0-fabric.jar": {
     "jarName": "ferritecore-9.0.0-fabric.jar",
@@ -189,13 +189,13 @@
     "curseForgeHash": 3104042032,
     "modrinthHash": "a4083de0d8e0c19b993d21f7a576216efb5ceb23"
   },
-  "freecam-fabric-1.4.1-beta.1+mc26.2.jar": {
-    "jarName": "freecam-fabric-1.4.1-beta.1+mc26.2.jar",
+  "freecam-fabric-1.4.1-beta.2+mc26.2.jar": {
+    "jarName": "freecam-fabric-1.4.1-beta.2+mc26.2.jar",
     "modId": "freecam",
     "name": "Freecam",
-    "version": "1.4.1-beta.1",
-    "curseForgeHash": 226529989,
-    "modrinthHash": "d77a5264de3e03ad2d29069de1e1e2a8020cf455"
+    "version": "1.4.1-beta.2",
+    "curseForgeHash": 3093362816,
+    "modrinthHash": "4ef5426750ab926eace61feda9dceabe7ffe50df"
   },
   "Gamma-Utils-Fabric-3.1.0+mc26.2-beta.jar": {
     "jarName": "Gamma-Utils-Fabric-3.1.0+mc26.2-beta.jar",
@@ -237,13 +237,13 @@
     "curseForgeHash": 2128868366,
     "modrinthHash": "0667b3e1d203a54a0fcede02d97fc3b9f384711c"
   },
-  "litematica-fabric-26.2-0.28.3.jar": {
-    "jarName": "litematica-fabric-26.2-0.28.3.jar",
+  "litematica-fabric-26.2-0.28.4.jar": {
+    "jarName": "litematica-fabric-26.2-0.28.4.jar",
     "modId": "litematica",
     "name": "Litematica",
-    "version": "0.28.3",
-    "curseForgeHash": 2964748338,
-    "modrinthHash": "52e420cefa4fb0d39e941f83b4cf9158debff9b7"
+    "version": "0.28.4",
+    "curseForgeHash": 2712487149,
+    "modrinthHash": "a7f32029d38325b451d27072997f14aa2c3d3286"
   },
   "lithium-fabric-0.25.2+mc26.2.jar": {
     "jarName": "lithium-fabric-0.25.2+mc26.2.jar",
@@ -253,13 +253,13 @@
     "curseForgeHash": 1813557899,
     "modrinthHash": "3bcc94183d7068395de08915fd5fce8d199aaa50"
   },
-  "locator-heads-2.4.1.jar": {
-    "jarName": "locator-heads-2.4.1.jar",
+  "locator-heads-2.4.2.jar": {
+    "jarName": "locator-heads-2.4.2.jar",
     "modId": "locator-heads",
     "name": "Locator Heads",
-    "version": "2.4.1",
-    "curseForgeHash": 1471331197,
-    "modrinthHash": "63544a8d9b1689502c0a1ceaa3f6eade7de2bfd9"
+    "version": "2.4.2",
+    "curseForgeHash": 2457301264,
+    "modrinthHash": "328230d24a17214ddfb6f8f6f27d824fe6c23706"
   },
   "malilib-fabric-26.2-0.29.3.jar": {
     "jarName": "malilib-fabric-26.2-0.29.3.jar",
@@ -349,13 +349,21 @@
     "curseForgeHash": 600247438,
     "modrinthHash": "99b57ccc1d4323c4ef71887828dac25ce4ce2103"
   },
-  "PuzzlesLib-v26.2.0-mc26.2.x-Fabric.jar": {
-    "jarName": "PuzzlesLib-v26.2.0-mc26.2.x-Fabric.jar",
+  "PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar": {
+    "jarName": "PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
     "modId": "puzzleslib",
     "name": "Puzzles Lib",
-    "version": "26.2.0",
-    "curseForgeHash": 110856022,
-    "modrinthHash": "0b116d3b84970ece52d7e42a3b1cabf831b5e6df"
+    "version": "26.2.1",
+    "curseForgeHash": 3035276138,
+    "modrinthHash": "626d7d72454f81fe3bee8445ef42dc743caa5e2f"
+  },
+  "scribble-2.1.0-beta1+mc26.2.jar": {
+    "jarName": "scribble-2.1.0-beta1+mc26.2.jar",
+    "modId": "scribble",
+    "name": "Scribble",
+    "version": "2.1.0-beta1",
+    "curseForgeHash": 10620066,
+    "modrinthHash": "d8d1ba660dbd4c30d09642bf35361b58544c5e20"
   },
   "shulkerboxtooltip-fabric-5.4.0+26.2.jar": {
     "jarName": "shulkerboxtooltip-fabric-5.4.0+26.2.jar",
@@ -397,13 +405,13 @@
     "curseForgeHash": 1945904364,
     "modrinthHash": "b44e4c3a5498bc9917fbad5343c4380dd84bebbc"
   },
-  "voxy-0.2.17-beta.jar": {
-    "jarName": "voxy-0.2.17-beta.jar",
+  "voxy-0.2.18-beta.jar": {
+    "jarName": "voxy-0.2.18-beta.jar",
     "modId": "voxy",
     "name": "Voxy",
-    "version": "0.2.17-beta",
-    "curseForgeHash": 3950118232,
-    "modrinthHash": "f88a4d6d4b3628e9b75d0cf4999a9478c36334a5"
+    "version": "0.2.18-beta",
+    "curseForgeHash": 1147704838,
+    "modrinthHash": "34206446f7625782b04382256083f44fe9551b83"
   },
   "worldedit-mod-7.4.4.jar": {
     "jarName": "worldedit-mod-7.4.4.jar",
@@ -413,13 +421,13 @@
     "curseForgeHash": 2110995893,
     "modrinthHash": "40f943ddabba673251edf468e65314851be240be"
   },
-  "xaeroworldmap-fabric-26.2-1.42.0.jar": {
-    "jarName": "xaeroworldmap-fabric-26.2-1.42.0.jar",
+  "xaeroworldmap-fabric-26.2-1.44.2.jar": {
+    "jarName": "xaeroworldmap-fabric-26.2-1.44.2.jar",
     "modId": "xaeroworldmap",
     "name": "Xaero\u0027s World Map",
-    "version": "1.42.0",
-    "curseForgeHash": 2458482490,
-    "modrinthHash": "2a210a4d1abb811967e865cc07db2f2e9f9702b5"
+    "version": "1.44.2",
+    "curseForgeHash": 2789109440,
+    "modrinthHash": "c003a5a6bcad9b876bf356d99fbaee664d72d1a4"
   },
   "yet_another_config_lib_v3-3.9.5+26.2-fabric.jar": {
     "jarName": "yet_another_config_lib_v3-3.9.5+26.2-fabric.jar",

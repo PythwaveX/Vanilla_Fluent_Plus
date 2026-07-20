@@ -1,26 +1,20 @@
 {
-  "configVersion": 5,
+  "configVersion": 9,
   "helmetOpacity": 0.0,
-  "helmetGlint": true,
   "chestOpacity": 1.0,
-  "chestGlint": true,
   "legsOpacity": 1.0,
-  "legsGlint": true,
   "bootsOpacity": 1.0,
+  "helmetGlint": true,
+  "chestGlint": true,
+  "legsGlint": true,
   "bootsGlint": true,
-  "inCombatUseDefaultModel": false,
   "enableCombatDetection": true,
   "opacityAffectingElytra": false,
   "opacityAffectingHatOrSkull": false,
   "disableArmorHider": false,
   "disableArmorHiderForOthers": false,
   "usePlayerSettingsWhenUndeterminable": true,
-  "showSettingsInSkinCustomization": false,
   "offHandOpacity": 1.0,
-  "showShieldWhenBlocking": true,
-  "disableArmorHiderOnInvisibility": false,
-  "playerId": "db4381de-9df6-4168-a1fb-f9fda72247f4",
-  "playerName": "PythwaveX",
   "exclusionItems": {
     "items": {
       "HEAD": {
@@ -142,5 +136,13 @@
         }
       }
     }
-  }
+  },
+  "showSettingsInSkinCustomization": false,
+  "inCombatUseDefaultModel": false,
+  "showShieldWhenBlocking": true,
+  "disableArmorHiderOnInvisibility": false,
+  "individualConfigurations": {},
+  "useGlobalOverrideForAllPlayers": false,
+  "playerId": "db4381de-9df6-4168-a1fb-f9fda72247f4",
+  "playerName": "PythwaveX"
 }

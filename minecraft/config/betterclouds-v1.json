@@ -58,6 +58,7 @@
 	"selectedPreset": 0,
 	"selectedNoisePreset": 0,
 	"gpuIncompatibleMessageEnabled": true,
+	"useFallbacks": false,
 	"enabledDimensions": [
 		"minecraft:overworld",
 		"bigglobe:overworld",
