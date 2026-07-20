@@ -27,11 +27,13 @@ Visual effects in Minecraft are often quite flat and simple, for this reason the
 ### QoL Features
 
 The modpack also includes several Quality of Life features, such as:
-    - **Jade**: shows information about what you are looking at
-    - **Xaero's World Map**: adds a full screen world map
-    - **Shulker Box Tooltip**: allows to see a preview window of a shulker box contents
-    - **Freecam**: a highly customizable freecam mod
-    - **Litematica**: a schematic mod with extra features for creative mode work
+
+- **Jade**: shows information about what you are looking at;
+- **Xaero's World Map**: adds a full screen world map;
+- **Shulker Box Tooltip**: allows to see a preview window of a shulker box contents;
+- **Scribble**: allows you to edit your books with rich formatting options;
+- **Freecam**: a highly customizable freecam mod;
+- **Litematica**: a schematic mod with extra features for creative mode work;
 
 ### Resource Packs
 
