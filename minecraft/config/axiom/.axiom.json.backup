@@ -178,7 +178,10 @@
     "showOpenContextMenuTip": false,
     "showOpenEditorTip": false,
     "completedTutorials": [
-      "introduction"
+      "introduction",
+      "magic_select_tool",
+      "box_select_tool",
+      "selection"
     ],
     "openEditorWindowTypes": [
       "tools",
