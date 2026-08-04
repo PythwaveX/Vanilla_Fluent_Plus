@@ -49,7 +49,7 @@ invertYMouse:false
 realmsNotifications:true
 showSubtitles:false
 directionalAudio:false
-bobView:true
+bobView:false
 toggleCrouch:false
 toggleSprint:false
 toggleAttack:false
@@ -91,7 +91,7 @@ mouseWheelSensitivity:1.0
 rawMouseInput:true
 allowCursorChanges:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:false
 syncChunkWrites:true
