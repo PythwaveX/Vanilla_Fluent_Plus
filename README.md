@@ -18,14 +18,15 @@
 
 ## ⚙️ Option - Preset
 
-The modpack include a preset for both the base game and the mod options with customized key binds; these are the main options settings:
-- **Base Video Settings**: Render Distance [8 chucks], Simulation Distance [5 chunks], Max Fps [160 FPS], Improved Transparency [On], Cloud Distance [64 chunks], Entity Shadows [Off], Max Shadow Distance [32 chunk];
-- **Voxy**: Service Threads [4], Use Sodium Threads [On], Pixels^2 Subdivision Size [63], (Voxy) Render Distance [128 chucks];
-- **Xaero's World Map**: Open World Map Key Bind [X], Footsteps [Off];
-- **Zoomify**: Zoom Key Bind [C], Secondary Zoom Key Bind [V]
-- **Freecam**: Toggle Freecam Key Bind [F6], Control Player Key Bind [F7];
-- **Light Overlay**: Toggle Overlay [N];
-- **Resource Pack Order**: Stay True, Vanilla Tweaks, Default Connected Textures, Glass Pane Culling Fix, Recolourful Containers, Theone's Eating Animation PackEven Better Enchants, Enchant Icons, Visual: Armor Trims, Almost Vanilla Potions;
+The modpack include a **preset** for both the base game and the mod options with customized key binds; these are the main changes:
+
+- **Base Video Settings**: Render Distance `8 chucks`, Simulation Distance `5 chunks`, Max Fps `160 FPS`, Improved Transparency `On`, Cloud Distance `64 chunks`, Entity Shadows `Off`, Max Shadow Distance `32 chunk`;
+- **Voxy**: Service Threads `4`, Use Sodium Threads `On`, Pixels^2 Subdivision Size `63`, (Voxy) Render Distance `128 chucks`;
+- **Xaero's World Map**: Open World Map Key Bind `X`, Footsteps `Off`;
+- **Zoomify**: Zoom Key Bind `C`, Secondary Zoom Key Bind `V`;
+- **Freecam**: Toggle Freecam Key Bind `F6`, Control Player Key Bind `F7`;
+- **Armor Hider**: Helmet Visibility `0%`, Chestplate Visibility `0%`, Leggins Visibility `0%`, Boots Visibility `0%`, Offhand Visibility `100%`, Combat Detection `On`;
+- **Light Overlay**: Toggle Overlay Key Bind `N`, Vertical Overlay `1 chunk`;
 
 ## 📝 Credits
 
